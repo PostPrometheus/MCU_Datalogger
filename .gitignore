@@ -1,0 +1,6 @@
+*-backups/
+*.kicad_prl
+*.tmp
+*.bak
+*.erc
+*.drc
